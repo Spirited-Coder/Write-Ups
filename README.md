@@ -1,0 +1,1 @@
+These articles are strictly for educational and ethical hacking purposes. Unauthorized access to computer systems are illegal. All testings were conducted within a sanctioned, private laboratory environment.
